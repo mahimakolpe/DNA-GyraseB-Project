@@ -1,0 +1,24 @@
+﻿Name,SMILES,Synthetic Accessibility (swissADME)
+ A1370 ,Cc1ccc2c(c1)C(=O)C(=O)N2CCN1CCCC(C1)NCc1ccccc1C(F)(F)F,3.58
+ A2013 ,Fc1cnc2c(c1)n(CCN1CCC(CC1)NCc1cccc(c1)C(F)(F)F)c(=O)cc2,3.31
+ A1982 ,COc1cnc2c(c1)n(CCN1CCC(CC1)NCc1cccc(c1)C(F)(F)F)c(=O)cc2,3.38
+ A2097 ,Fc1ccc2c(c1)n(CCN1CCC(CC1)NCc1cnc(c(c1)[C@H](C1CC1)O)C)c(=O)cc2,4.08
+ A2208 ,O=C1COc2c(N1)nc(cc2)CNCC1CCCN(C1)CCn1c(=O)ccc2c1cc(F)cn2,4.21
+ A2194 ,O=c1ccc2c(n1CCN1CCC(CC1)NCc1ncc3c(c1)OCO3)cc(cc2)C(F)(F)F,3.6
+ A2191 ,COc1cnc2c(c1)n(CCN1CC[C@H]([C@H](C1)F)NCc1ccc(cc1)C(F)(F)F)c(=O)cc2,4.13
+ A2133 ,Clc1cc(CNC2CCN(CC2)CCn2c(=O)ccc3c2ccc(c3)C(F)(F)F)cnc1C,3.24
+ A896 ,COc1cnc2c(c1)n(CCN1CC[C@H]([C@H](C1)F)NCc1cncc(c1)C(F)(F)F)c(=O)cc2,4.28
+ A792 ,CCc1cnc(cc1C(F)(F)F)CNC1CCN(CC1)CCn1c(=O)ccc2c1cc(C#N)cc2,3.59
+ A661 ,N#Cc1cc(CNCC2CCN(CC2)CCn2c(=O)ccc3c2cc(cn3)C(F)(F)F)cnc1C,3.56
+ A2183 ,O=c1ccc2c(n1CCN1CCC(CC1)NCc1ccc3c(c1)OCCO3)cc(cc2)C(F)(F)F,3.55
+ A2176 ,O=c1ccc2c(n1CCN1CCC(CC1)NCc1nccc3c1OCCO3)cc(cc2)C(F)(F)F,3.77
+ A1545 ,COc1cnc2c(c1)n(CCN1CCC(CC1)NCc1ccc(cc1F)Br)c(=O)cc2,3.29
+ A959 ,COc1ncc(cc1Cl)CNC1CCN(CC1)CCn1c(=O)ccc2c1cc(cc2)C(F)(F)F,3.45
+ A1845 ,Cc1ccc2c(c1)C(=O)C(=O)N2CCN1CCCC(C1)NCc1ccccc1F,3.46
+ A246 ,Fc1ccc2c(c1)C(=O)C(=O)N2CCN1CCCC(C1)NCc1ccccc1F,3.41
+ A288 ,Fc1cnc2c(c1)n(CCN1CCC(CC1)NCc1cccc(c1)Cl)c(=O)cc2,3.14
+ A2151 ,N#Cc1cc(CNC2CCCN(C2)CCn2c(=O)ccc3c2cc(F)cn3)cnc1C,3.84
+ A2196 ,COc1ccc2c(c1)C(=O)C(=O)N2CCN1CCC(CC1)CNCc1ccccc1F,3.19
+ A527 ,Clc1ccc2c(c1)C(=O)C(=O)N2CCN1CCC(CC1)CNCc1ccccc1F,3.02
+ A2148 ,COc1ccc2c(c1)c(=O)n(cn2)CCN1CCC(CC1)NCc1ccc(c(c1)C#N)C,3.24
+Cocrystal,O[C@@H]1[C@@H](CO[P@@](=O)(O[P@@](=O)(NP(=O)(O)O)O)O)O[C@H]([C@@H]1O)n1cnc2c1ncnc2N,5.23
